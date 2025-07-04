@@ -23,6 +23,13 @@
 		<label>1-2-3.tv </label>
 		<website>https://www.1-2-3.tv/ </website>
 	</tvchannel>
+    <tvchannel name="123TV.ve">
+		<lang>es</lang>
+		<country>ve</country>
+		<logo_filename>https://i.imgur.com/xXGeZms.png</logo_filename>
+		<label>123TV </label>
+		<website>https://123tvinfantil.blogspot.com/ </website>
+	</tvchannel>
     <tvchannel name="1000xHoraTV.uy">
 		<lang>es</lang>
 		<country>uy</country>
